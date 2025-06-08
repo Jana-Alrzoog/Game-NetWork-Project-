@@ -1,14 +1,13 @@
 
+![image](https://github.com/user-attachments/assets/3d7a9568-b295-4f9e-a309-a6c3a338769d)
 
-<h1 align="center">🎨 رتبها صح! - لعبة الأمثال النجدية 🎨</h1>
+<h1 align="center">رتبها صح! - لعبة الأمثال النجدية </h1>
 
 <p align="center">
   لعبة أمثال نجدية تفاعلية عبر الشبكة باستخدام Java!
 </p>
+![image](https://github.com/user-attachments/assets/2d805e0c-48d4-4e26-9baf-30bb1cfcf8f6)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a65acf94-e2f4-47ee-a574-0752ac2756f0.png" alt="زخرفة نجدية" width="250"/>
-</p>
 
 ---
 
