@@ -6,7 +6,6 @@
 <p align="center">
   لعبة أمثال نجدية تفاعلية عبر الشبكة باستخدام Java!
 </p>
-![image](https://github.com/user-attachments/assets/2d805e0c-48d4-4e26-9baf-30bb1cfcf8f6)
 
 
 ---
